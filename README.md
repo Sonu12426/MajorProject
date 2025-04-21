@@ -36,8 +36,6 @@ Encountered challenges, especially with data handling, but implemented efficient
 📸 Project Link:
 https://lnkd.in/gVGarKaf
 
-GitHub Repo:
-https://lnkd.in/gKdDYwf2
 
 🤝 Special Thanks:
 A heartfelt thank you to Shradha Khapra didi and AMAN DHATTARWAL bhaiya at hashtag#ApnaCollege for their invaluable support and collaboration. Your dedication to fostering learning and innovation has made a lasting impact, and I'm grateful for the opportunity to learn and grow under your mentorship.
